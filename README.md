@@ -1,4 +1,4 @@
-visit here: web-fit-club.netlify.app
+visit here: https://web-fit-club.netlify.app/
 
 # Getting Started with Create React App
 
